@@ -5,7 +5,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://lefant.github.io/starter/'
   relativeLinks: 'http://lefant.github.io/starter/links.jsonp'
-  media: '_posts/media'
+  media: 'media'
   metadata:
     _posts:
       - name: "category"
