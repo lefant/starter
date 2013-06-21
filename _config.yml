@@ -3,9 +3,9 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: '_posts'
-  siteurl: 'http://lefant.github.io/starter/'
+  siteurl: 'http://lefant.github.io/'
   relativeLinks: 'http://lefant.github.io/starter/links.jsonp'
-  media: '/media'
+  media: 'media'
   metadata:
     _posts:
       - name: "category"
